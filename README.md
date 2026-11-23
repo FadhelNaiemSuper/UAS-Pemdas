@@ -34,5 +34,5 @@ Aplikasi kasir kantin berbasis terminal (*console*) menggunakan TypeScript untuk
 | Nama & NIM | Akun GitHub | Fitur / Bagian Kode yang Dikerjakan | Link Pull Request Utama |
 | :--- | :--- | :--- | :--- |
 | Fadhel Naiem Azziqri<br>NIM: 263140700111011 | @FadhelNaiemSuper | Repository setup, Data Structure (`MenuItem`) & Seed Data, Main Menu Loop, Create Feature & Input Validation | https://github.com/FadhelNaiemSuper/UAS-Pemdas/pull/2 |
-| Valen Abiyyu Robiansyah<br>NIM: 263140700111033 | @Ilukato | Read Feature (All & Detail by ID), Update Feature, Flowchart (Chapter II) & Report Chapter I | - |
-| Firdaus Ivan Maulana<br>NIM: 263140700111005 | @ivanyourbea | Delete Feature (with Y/N confirmation), Search Feature (Keyword + Filter), Operator Integration & README.md | - |
+| Valen Abiyyu Robiansyah<br>NIM: 263140700111033 | @Ilukato | Read Feature (All & Detail by ID), Update Feature, Flowchart (Chapter II) & Report Chapter I | https://github.com/FadhelNaiemSuper/UAS-Pemdas/pull/1 |
+| Firdaus Ivan Maulana<br>NIM: 263140700111005 | @ivanyourbea | Delete Feature (with Y/N confirmation), Search Feature (Keyword + Filter), Operator Integration & README.md | https://github.com/FadhelNaiemSuper/UAS-Pemdas/pull/1 |
