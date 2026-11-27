@@ -1,4 +1,4 @@
-# Canteen Cashier Console Application
+0# Canteen Cashier Console Application
 
 Aplikasi kasir kantin berbasis terminal (*console*) menggunakan TypeScript untuk mengelola data menu makanan dan minuman dengan operasi CRUD (*Create, Read, Update, Delete*) dan *Search*.
 
@@ -34,5 +34,7 @@ Aplikasi kasir kantin berbasis terminal (*console*) menggunakan TypeScript untuk
 | Nama & NIM | Akun GitHub | Fitur / Bagian Kode yang Dikerjakan | Link Pull Request Utama |
 | :--- | :--- | :--- | :--- |
 | Fadhel Naiem Azziqri<br>NIM: 263140700111011 | @FadhelNaiemSuper | Repository setup, Data Structure (`MenuItem`) & Seed Data, Main Menu Loop, Create Feature & Input Validation | https://github.com/FadhelNaiemSuper/UAS-Pemdas/pull/2 |
-| Valen Abiyyu Robiansyah<br>NIM: 263140700111033 | @Ilukato | Read Feature (All & Detail by ID), Update Feature, Flowchart (Chapter II) & Report Chapter I | https://github.com/FadhelNaiemSuper/UAS-Pemdas/pull/1 |
-| Firdaus Ivan Maulana<br>NIM: 263140700111005 | @ivanyourbea | Delete Feature (with Y/N confirmation), Search Feature (Keyword + Filter), Operator Integration & README.md | https://github.com/FadhelNaiemSuper/UAS-Pemdas/pull/1 |
+| Valen Abiyyu Robiansyah<br>NIM: 263140700111033 | @Ilukato | read Feature (All & Detail by ID), Update Feature, Flowchart (Chapter II) & Report Chapter I | https://github.com/FadhelNaiemSuper/UAS-Pemdas/pull/1 |
+| Firdaus Ivan Maulana<br>NIM: 263140700111005 | @ivanyourbea | Delete Feature (with Y/N confirmation), Search Feature (Keyword + Filter), Operator Integration & README.md | https://github.com/FadhelNaiemSuper/UAS-Pemdas/pull/1 
+|- Progress 2: Flowchart & Chapter II description completed by Valen (@Ilukato)
+|- Progress 2: Typed function stubs verified by Firdaus (@ivanyourbea)
