@@ -37,3 +37,4 @@ Aplikasi kasir kantin berbasis terminal (*console*) menggunakan TypeScript untuk
 | Valen Abiyyu Robiansyah<br>NIM: 263140700111033 | @Ilukato | read Feature (All & Detail by ID), Update Feature, Flowchart (Chapter II) & Report Chapter I | https://github.com/FadhelNaiemSuper/UAS-Pemdas/pull/1 |
 | Firdaus Ivan Maulana<br>NIM: 263140700111005 | @ivanyourbea | Delete Feature (with Y/N confirmation), Search Feature (Keyword + Filter), Operator Integration & README.md | https://github.com/FadhelNaiemSuper/UAS-Pemdas/pull/1 
 |- Progress 2: Flowchart & Chapter II description completed by Valen (@Ilukato)
+|- Progress 2: Typed function stubs verified by Firdaus (@ivanyourbea)
